@@ -23,4 +23,5 @@ An analytics dashboard designed for growth marketers and digital agencies to mon
 
 
 <img width="1900" height="579" alt="image" src="https://github.com/user-attachments/assets/c20f97c3-920e-4daf-b60c-f6a6418bf545" />
-![Uploading image.png…]()
+<img width="1264" height="861" alt="image" src="https://github.com/user-attachments/assets/48773327-5ca9-4641-ad3d-5aa8904a1988" />
+
