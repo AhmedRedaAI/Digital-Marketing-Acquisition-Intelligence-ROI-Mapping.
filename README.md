@@ -20,3 +20,7 @@ An analytics dashboard designed for growth marketers and digital agencies to mon
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/marketing-intelligence.git](https://github.com/your-username/marketing-intelligence.git)
+
+
+<img width="1900" height="579" alt="image" src="https://github.com/user-attachments/assets/c20f97c3-920e-4daf-b60c-f6a6418bf545" />
+![Uploading image.png…]()
